@@ -12,10 +12,10 @@
     "wa-bot",
     "whatsapp bot"
   ],
-  "homepage": "https://www.npmjs.com/package/@poucode/baileys",
+  "homepage": "https://github.com/pou-code/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poucode/baileys.git"
+    "url": "git+https://github.com/pou-code/Baileys.git"
   },
   "license": "MIT",
   "author": "PouCode",
@@ -140,7 +140,7 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/poucode/baileys/issues"
+    "url": "https://github.com/pou-code/Baileys/issues"
   },
   "contributors": [
     "WhiskeySockets (original Baileys authors)"
